@@ -1,0 +1,8 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+gspread>=6.0.0
+google-auth>=2.30.0
+google-api-python-client>=2.160.0
+google-cloud-documentai>=2.31.0
+twilio>=9.0.0

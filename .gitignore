@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Env / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Google service account credentials (local)
+biaticos-488419-1073823ba21a.json
+service-account*.json
